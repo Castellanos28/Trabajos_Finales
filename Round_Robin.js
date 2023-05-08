@@ -1,4 +1,5 @@
-function quantum(){
+
+  function quantum(){
 
     let tiempo = [];
     let tiempoTotal = 0; 
@@ -162,3 +163,6 @@ function quantum(){
     }
 }
 quantum(); 
+  
+
+
